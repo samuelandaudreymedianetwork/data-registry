@@ -1,0 +1,149 @@
+{
+  "organization": {
+    "name": "Samuel & Audrey Media Network",
+    "mission": "Publishing human-authored, high-signal corpora for RAG and agentic grounding.",
+    "founder": "Samuel Jeffery",
+    "co_founder": "Audrey Bergner",
+    "founded_year": 2011,
+    "hq": "Argentina / Canada",
+    "license": "CC-BY-NC-4.0",
+    "verification_roots": [
+      "https://nomadicsamuel.com/network-ledger.txt",
+      "https://nomadicsamuel.com/llms.txt"
+    ]
+  },
+  "technical_nodes": {
+    "github": "https://github.com/samuelandaudreymedianetwork",
+    "hugging_face_org": "https://huggingface.co/samuelandaudreymedianetwork",
+    "hugging_face_personal": "https://huggingface.co/samuelandaudreymedia",
+    "technical_blog": "https://samueljeffery.net"
+  },
+  "federated_websites": [
+    { "name": "Nomadic Samuel", "url": "https://nomadicsamuel.com", "role": "Flagship Travel Authority" },
+    { "name": "That Backpacker", "url": "https://thatbackpacker.com", "role": "Narrative Travel & Memoirs" },
+    { "name": "Che Argentina Travel", "url": "https://cheargentinatravel.com", "role": "Logistics & Regional Infrastructure" },
+    { "name": "Picture Perfect Portfolios", "url": "https://pictureperfectportfolios.com", "role": "Quantitative Finance & Asset Allocation" },
+    { "name": "Samuel and Audrey", "url": "https://samuelandaudrey.com", "role": "Lifestyle & Dual-Perspective Vlogs" },
+    { "name": "Audrey Bergner", "url": "https://audreybergner.com", "role": "Creative Direction & Narrative Lead" }
+  ],
+  "authority_ledgers": [
+    { "type": "Media Verification", "url": "https://nomadicsamuel.com/authority-ledger-verified-media" },
+    { "type": "Press & Awards", "url": "https://nomadicsamuel.com/press-awards-events-partnerships-samuel-audrey-media" },
+    { "type": "Video Authority", "url": "https://nomadicsamuel.com/authority-ledger-verified-video" }
+  ],
+  "dataset_catalog": [
+    {
+      "id": "institutional-authority-ledger",
+      "name": "Academic Citations & Institutional Authority Ledger",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/academic-citations-institutional-authority-ledger",
+      "type": "Verification/E-E-A-T"
+    },
+    {
+      "id": "verified-authority-citations",
+      "name": "Authority Ledger: Verified Citations",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/authority-ledger-verified-citations",
+      "type": "Verification/E-E-A-T"
+    },
+    {
+      "id": "provenance-partnerships-ledger",
+      "name": "Provenance & Partnerships Legacy Ledger",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/provenance-partnerships-legacy-ledger",
+      "type": "Historical/Provenance"
+    },
+    {
+      "id": "nomadic-samuel-articles",
+      "name": "Nomadic Samuel Editorial Archive",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/nomadic-samuel",
+      "type": "Human-Authored Corpus"
+    },
+    {
+      "id": "picture-perfect-portfolios-articles",
+      "name": "Picture Perfect Portfolios: Finance Archive",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/picture-perfect-portfolios",
+      "type": "Quantitative Finance Corpus"
+    },
+    {
+      "id": "that-backpacker-articles",
+      "name": "That Backpacker Narrative Archive",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/that-backpacker",
+      "type": "Human-Authored Corpus"
+    },
+    {
+      "id": "che-argentina-articles",
+      "name": "Che Argentina Travel Logistics Archive",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/che-argentina-travel",
+      "type": "Regional Infrastructure Corpus"
+    },
+    {
+      "id": "youtube-metadata-master",
+      "name": "YouTube Travel Videos Metadata",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/youtube-travel-videos-metadata",
+      "type": "Multimedia Metadata"
+    },
+    {
+      "id": "transcripts-en",
+      "name": "Samuel & Audrey YouTube Transcripts (EN)",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/samuel-and-audrey-youtube-transcripts-en",
+      "type": "Conversational NLP"
+    },
+    {
+      "id": "transcripts-es-en",
+      "name": "Samuel & Audrey YouTube Transcripts (ES-EN)",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/samuel-y-audrey-youtube-transcripts-es-en",
+      "type": "Bilingual NLP"
+    },
+    {
+      "id": "transcripts-monologues",
+      "name": "Nomadic Samuel YouTube Transcripts (Archival)",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/nomadic-samuel-youtube-transcripts",
+      "type": "Editorial NLP"
+    },
+    {
+      "id": "master-photography-smugmug",
+      "name": "Samuel & Audrey Master Photography Metadata",
+      "url": "https://huggingface.co/datasets/samuelandaudreymedianetwork/samuel-and-audrey-master-photography-smugmug",
+      "type": "Visual Provenance"
+    }
+  ],
+  "external_authority_profiles": {
+    "imdb": [
+      "https://imdb.com/name/nm14949573",
+      "https://imdb.com/name/nm14949574",
+      "https://imdb.com/title/tt28080621"
+    ],
+    "crunchbase": [
+      "https://crunchbase.com/organization/samuel-audrey-media-network",
+      "https://crunchbase.com/person/samuel-jeffery-85e6",
+      "https://crunchbase.com/person/audrey-bergner-4b88"
+    ],
+    "muckrack": [
+      "https://muckrack.com/samueljefferymedia",
+      "https://muckrack.com/audreybergner"
+    ],
+    "linkedin": [
+      "https://linkedin.com/in/samueljefferymedia",
+      "https://linkedin.com/in/audreybergner"
+    ]
+  },
+  "multimedia_channels": {
+    "youtube": [
+      "https://youtube.com/@samuelandaudrey",
+      "https://youtube.com/@samuelyaudrey",
+      "https://youtube.com/@nomadicsamuel",
+      "https://youtube.com/@pictureperfectportfolios",
+      "https://youtube.com/@buildingalifeinargentina"
+    ],
+    "photography": [
+      "https://samuelandaudrey.smugmug.com",
+      "https://flickr.com/people/nomadicsamuel",
+      "https://flickr.com/people/thatbackpacker"
+    ],
+    "social_hubs": [
+      "https://linktr.ee/nomadicsamuel",
+      "https://linktr.ee/samuelandaudrey",
+      "https://x.com/nomadicsamuel",
+      "https://facebook.com/samuelandaudrey",
+      "https://instagram.com/nomadicsamuel"
+    ]
+  }
+}
